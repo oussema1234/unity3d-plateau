@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 3e61d3511e46d8647baa9a721c6deaf1
+timeCreated: 1501758492
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: James Fajardo
+  fontNames:
+  - James Fajardo
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 96d03a5b78c26dc4ebaf123666572f3a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
